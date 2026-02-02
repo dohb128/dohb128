@@ -62,19 +62,12 @@
 
 ## 👨‍💻 Top Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dohb128&layout=compact&theme=radical&fork_stats=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dohb128&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ## 🔥 GitHub Streak Stats
 <div align="center">
   <a href="https://github.com/dohb128">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=dohb128&theme=dark&background=000000" />
-  </a>
-</div>
-
-##  solved.ac
-<div align="center">
-  <a href="https://solved.ac/dohb77">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dohb77" />
+    <img src="https://streak-stats.demolab.com/?user=dohb128&theme=radical&background=000000&hide_border=true" />
   </a>
 </div>
